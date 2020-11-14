@@ -1,5 +1,5 @@
 {
-    "name": "fad/php-event-dispatcher",
+    "name": "devcoder.xyz/php-event-dispatcher",
     "description": "A simple PSR-14 event dispatcher",
     "type": "package",
     "require": {
@@ -12,13 +12,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Fad\\Listener\\": "src"
+            "DevCoder\\Listener\\": "src"
         }
     },
     "authors": [
         {
             "name": "Fad M.R",
-            "email": "fad@heycoder.xyz"
+            "email": "fadymichel@devcoder.xyz"
         }
     ]
 }

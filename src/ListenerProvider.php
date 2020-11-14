@@ -1,11 +1,15 @@
 <?php
 
 
-namespace Fad\Listener;
+namespace DevCoder\Listener;
 
 
 use Psr\EventDispatcher\ListenerProviderInterface;
 
+/**
+ * Class ListenerProvider
+ * @package DevCoder\Listener
+ */
 class ListenerProvider implements ListenerProviderInterface
 {
 
@@ -23,7 +27,7 @@ class ListenerProvider implements ListenerProviderInterface
      */
     public function getListenersForEvent(object $event): iterable
     {
-        $eventType =get_class($event);
+        $eventType = get_class($event);
         if (array_key_exists($eventType, $this->listeners)) {
             return $this->listeners[$eventType];
         }

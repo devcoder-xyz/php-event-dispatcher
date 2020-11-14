@@ -1,6 +1,6 @@
 <?php
 
-namespace Fad\Listener;
+namespace DevCoder\Listener;
 
 use Psr\EventDispatcher\EventDispatcherInterface;
 use Psr\EventDispatcher\ListenerProviderInterface;
