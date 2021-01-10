@@ -35,7 +35,6 @@ class ListenerProvider implements ListenerProviderInterface
         return [];
     }
 
-
     /**
      * @param string $eventType
      * @param callable $callable

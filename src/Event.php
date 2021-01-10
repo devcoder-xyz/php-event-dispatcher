@@ -1,13 +1,12 @@
 <?php
 
-
 namespace DevCoder\Listener;
 
 use Psr\EventDispatcher\StoppableEventInterface;
 
 /**
  * Class Event
- * @package Fad\Listener
+ * @package DevCoder\Listener
  */
 class Event implements StoppableEventInterface
 {

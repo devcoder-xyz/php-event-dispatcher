@@ -1,5 +1,5 @@
 {
-    "name": "devcoder.xyz/php-event-dispatcher",
+    "name": "devcoder-xyz/php-event-dispatcher",
     "description": "A simple PSR-14 event dispatcher",
     "type": "package",
     "require": {
