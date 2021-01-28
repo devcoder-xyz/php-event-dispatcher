@@ -1,5 +1,5 @@
 # PSR-14 event dispatcher 
-
+[![Latest Stable Version](https://poser.pugx.org/devcoder-xyz/php-event-dispatcher/v)](//packagist.org/packages/devcoder-xyz/php-event-dispatcher) [![Total Downloads](https://poser.pugx.org/devcoder-xyz/php-event-dispatcher/downloads)](//packagist.org/packages/devcoder-xyz/php-event-dispatcher) [![Latest Unstable Version](https://poser.pugx.org/devcoder-xyz/php-event-dispatcher/v/unstable)](//packagist.org/packages/devcoder-xyz/php-event-dispatcher) [![License](https://poser.pugx.org/devcoder-xyz/php-event-dispatcher/license)](//packagist.org/packages/devcoder-xyz/php-event-dispatcher)
 
 Create an Event
 
